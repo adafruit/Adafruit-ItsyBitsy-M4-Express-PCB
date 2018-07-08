@@ -1,5 +1,5 @@
-# Adafruit-ItsyBitsy-M4-PCB
-PCB files for the Adafruit ItsyBitsy M4
+# Adafruit-ItsyBitsy-M4-Express-PCB
+PCB files for the Adafruit ItsyBitsy M4 Express
 
 PCB format is EagleCAD schematic and board layout
 
